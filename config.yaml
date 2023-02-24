@@ -32,30 +32,3 @@ monitors:
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
- 
-   - id: farrique.digitaino.com # unique identifier
-    name: farrique.digitaino.com
-    description: 'Farrique' # default=empty
-    url: 'https://farrique.digitaino.com/' # URL to fetch
-    method: GET # default=GET
-    expectStatus: 200 # operational status, default=200
-    followRedirect: false # should fetch follow redirects, default=false
-    linkable: false # allows the title to be a link, default=true
-
-  - id: ip.digitaino.com # unique identifier
-    name: ip.digitaino.com
-    description: 'IP' # default=empty
-    url: 'https://ip.digitaino.com/' # URL to fetch
-    method: GET # 
-    expectStatus: 200 # operational status, default=200
-    followRedirect: false # should fetch follow redirects, default=false
-    linkable: false # allows the title to be a link, default=true
-
-  - id: media.digitaino.com # unique identifier
-    name: media.digitaino.com
-    description: 'MEDIA' # default=empty
-    url: 'https://media.digitaino.com/' # URL to fetch
-    method: GET # default=GET
-    expectStatus: 200 # operational status, default=200
-    followRedirect: false # should fetch follow redirects, default=false
-    linkable: false # allows the title to be a link, default=true
