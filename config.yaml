@@ -15,7 +15,7 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: mastodon.digitaino.com # unique identifier
+  - id: mastodon.digitaino.com # unique identifier new change
     name: mastodon.digitaino.com
     description: 'Mastodon' # default=empty
     url: 'https://mastodon.digitaino.com/' # URL to fetch
