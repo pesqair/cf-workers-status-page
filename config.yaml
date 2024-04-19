@@ -26,7 +26,7 @@ monitors:
 
   - id: digitaino.com # unique identifier
     name: digitaino.com
-    description: 'WordPress' # default=empty
+    description: 'Digitaino WordPress' # default=empty
     url: 'https://digitaino.com/' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
