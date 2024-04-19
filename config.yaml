@@ -17,7 +17,7 @@ settings:
 monitors:
   - id: mastodon.digitaino.com # unique identifier new change
     name: mastodon.digitaino.com
-    description: 'Mastodon' # default=empty
+    description: 'Digitaino Mastodon' # default=empty
     url: 'https://mastodon.digitaino.com/' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
