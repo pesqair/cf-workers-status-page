@@ -41,3 +41,12 @@ monitors:
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
+
+  - id: gallery.digitaino.com # unique identifier
+    name: gallery.digitaino.com
+    description: 'Digitaino Gallery' # default=empty
+    url: 'https://gallery.digitaino.com/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
